@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/VX_sxx/Earth satellite - Moon.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
